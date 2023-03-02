@@ -1,0 +1,1 @@
+-g git fetch origin \ngit pull origin master
